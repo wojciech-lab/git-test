@@ -20,3 +20,6 @@ x = 10
 
 #git checkout id_commita - podróż do określonego commita
 #git checkout -  #podróż do najnowszego commita / brancha
+
+# git switch -c "Nazwa" - nowa gałąź
+# git switch "Nazwa" - przełącz na gałąź
