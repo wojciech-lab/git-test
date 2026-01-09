@@ -11,3 +11,9 @@ x = 10
 
 
 #git add .  #dodaj wszystko naraz
+
+
+#git commit -m "wiadmość" - utworzenie commita / punktu w czasie / snapshoota
+
+#git log - sprawdzenie commitów
+# git log --online - skrótowe sprawdzenie commitów
