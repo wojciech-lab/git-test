@@ -17,3 +17,6 @@ x = 10
 
 #git log - sprawdzenie commitów
 # git log --online - skrótowe sprawdzenie commitów
+
+#git checkout id_commita - podróż do określonego commita
+#git checkout -  #podróż do najnowszego commita / brancha
